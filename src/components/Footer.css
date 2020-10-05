@@ -1,0 +1,26 @@
+.footer-container{
+    background-color: black;
+    padding: 4rem 0 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+
+}
+
+.footer-social-media {
+    color: #fff;
+    padding: 4rem 0 2rem 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+}
+
+.socials {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    letter-spacing: 1.20vh;
+    padding: 10px;
+}
